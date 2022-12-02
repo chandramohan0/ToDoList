@@ -70,9 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# ToDoList
-
-# React Todo App
-This is a ToDo App built using React library of JavaScript. 
 
 >>>>>>> 584d816e2a6d76a12ac2a05e9390e9574f67cf1e
